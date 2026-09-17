@@ -36,7 +36,7 @@ export default function Hero() {
 
             {/* CTA Buttons */}
             <div className="mt-10 flex flex-col sm:flex-row gap-4">
-              <a href="tel:+919876543210">
+              <a href="tel:+917564051627">
                 <button className="w-full sm:w-auto bg-blue-600 hover:bg-blue-700 transition-all duration-300 px-8 py-4 rounded-xl flex items-center justify-center gap-2 font-semibold shadow-lg shadow-blue-600/30">
                   <Phone size={20} />
                   Free Consultation
