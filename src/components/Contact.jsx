@@ -18,15 +18,15 @@ export default function Contact() {
 
     emailjs
       .send(
-        "YOUR_SERVICE_ID", // Replace
-        "YOUR_TEMPLATE_ID", // Replace
+        "service_zxux6ii", // Replace
+        "template_o70b27d", // Replace
         {
           from_name: form.name,
           from_email: form.email,
           phone: form.phone,
           message: form.message,
         },
-        "YOUR_PUBLIC_KEY" // Replace
+        "n-fF5YZlau6Ouy5fy" // Replace
       )
       .then(() => {
         alert("Message sent successfully!");
