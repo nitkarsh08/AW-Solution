@@ -54,7 +54,7 @@ export default function Hero() {
             {/* Quick Stats */}
             <div className="grid grid-cols-3 gap-4 mt-12">
               <div className="bg-white/5 backdrop-blur border border-white/10 rounded-xl p-4 text-center">
-                <h3 className="text-2xl font-bold text-blue-400">50+</h3>
+                <h3 className="text-2xl font-bold text-blue-400">2+</h3>
                 <p className="text-xs text-gray-400">Projects</p>
               </div>
 
